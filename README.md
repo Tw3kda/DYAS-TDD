@@ -1,4 +1,5 @@
 # Desarrollo Guiado por Pruebas - Caso práctico
+## SANTIAGO NAVARRO CUY
 
 #### CLASES DE EQUIVALENCIA 
 
